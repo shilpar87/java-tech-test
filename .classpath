@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="Client/src/main/java"/>
+	<classpathentry kind="src" path="Client/src/test/java"/>
+	<classpathentry kind="src" path="Server/src/main/java"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/5"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/.m2/repository/org/apache/poi/poi/3.11-beta2/poi-3.11-beta2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/.m2/repository/org/apache/poi/poi-ooxml-schemas/3.11-beta2/poi-ooxml-schemas-3.11-beta2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/.m2/repository/org/apache/poi/poi-ooxml/3.11-beta2/poi-ooxml-3.11-beta2.jar" sourcepath="C:/Users/Admin/.m2/repository/org/apache/poi/poi-ooxml/3.11-beta2/poi-ooxml-3.11-beta2-sources.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
